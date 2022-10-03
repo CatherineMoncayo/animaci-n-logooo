@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding: 0%;
+}
+
+#flores {
+    animation-delay: 0.7s;
+}
+#logo {
+    animation-delay: 1.5s;
+}
+#cate {
+    animation-delay: 2.4s;
+}
